@@ -1,9 +1,3 @@
-/*
- PIC 10A Homework 3, threeNumbers.cpp
- Author: Jacob Ramos
- Date: 02/13/2023
-*/
-
 #include <iostream>
 using namespace std;
 
